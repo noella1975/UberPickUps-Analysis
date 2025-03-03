@@ -1,5 +1,11 @@
 # Uber-NewYork-pickups
 
+### Project Collaborators
+- **Douglas Kimathi:** Enter short bio | [Github](https://github.com/Douglas-Kimathi/) | [LinkedIn](https://www.linkedin.com/in/douglas-kimathi-234a281a4/)
+- **Noella Mutuku:** Enter short bio | [Github](https://github.com/noella1975) | [LinkedIn](https://www.linkedin.com/in/noellamutuku?trk=contact-info)
+- **Mandela  Ngatia:** Enter short bio | [Github](https://github.com/mandem296) | [LinkedIn](https://www.linkedin.com/in/mandelawaweru/)
+
+
 ## Final Capstone for the 30-Day Challenge by [Zindua School](https://zinduaschool.com)
 
 This project contains data on over 4.5 million Uber pickups in New York City from April to September 2014, and 14.3 million more Uber pickups from January to June 2015. Trip-level data on 10 other for-hire vehicle (FHV) companies, as well as aggregated data for 329 FHV companies, is also included. All the files are as they were received on August 3, Sept. 15 and Sept. 22, 2015
@@ -48,9 +54,4 @@ The file `Aggregate_FHV_Data.xlsx`, which contains aggregate analysis on taxi an
 
 The file `Uber-Jan-Feb-FOIL.csv` contains aggregated daily Uber trip statistics in January and February 2015.
 
-
-### Project Collaborators
-- **Douglas Kimathi:** Enter short bio | [Github](https://github.com/Douglas-Kimathi/) | [LinkedIn](https://www.linkedin.com/in/douglas-kimathi-234a281a4/)
-- **Mandela  Ngatia:** Enter short bio | [Github](https://github.com/mandem296) | [LinkedIn](https://www.linkedin.com/in/mandelawaweru/)
--  **Noella Mutuku:** Enter short bio | [Github](https://github.com/noella1975) | [LinkedIn](https://www.linkedin.com/in/noellamutuku?trk=contact-info)
 
